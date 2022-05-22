@@ -1,2 +1,2 @@
 # Gaming
-This is first repository
+this is the commits practice
